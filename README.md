@@ -20,4 +20,7 @@ using this can help reduce testing times by making a simple debug log output loo
 resizable terminal windows are supported, as well as keypresses without changing any code when switching from windows to linux, multi panel terminal ui windows, multi screen applications, and much more is all included in one package
 
 ### maven
-soon
+soon (sorry!)
+
+### documentation and help
+soon (sorry!)
