@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sketch-tui:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ceecdae-2453-4df6-8a2e-491280551a75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sketch_tui_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/SketchLibrary.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/SketchLibrary.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/SketchLibraryLinux.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/generate-header-file.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/generate-header-file.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/sketch.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/keyboard/GlobalKeylistener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/keyboard/KeyEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/keyboard/KeyEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/keyboard/Keycode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/keyboard/Keylistener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/text/AnsiColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/text/AnsiColorBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/text/ComponentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/text/ComponentPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/text/RandomString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/text/TextComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/dynamic/DynamicTUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/dynamic/exception/ScreenNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/TUIRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/border/Border.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/border/BorderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/border/BorderType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/PanelBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/PanelDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/PanelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/standard/InputPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/standard/LogPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/standard/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/standard/PopupPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/standard/SelectionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/panel/standard/TablePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/table/TableBorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/table/TableBorderType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/table/TableRowFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/title/SimpleTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/title/SimpleTitleAlignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/ui/util/title/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/util/ansi/AnsiEscapeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/util/lib/NativeSketchLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/util/lib/SketchLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/crayne/sketch/util/vec/Vec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PPX34NTJNmApVAi6mjpxfoqQwg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/crayne/sketch-tui",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/native/build.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/native" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.build.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ceecdae-2453-4df6-8a2e-491280551a75" name="Changes" comment="" />
+      <created>1683359490149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683359490149</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+g++ -I "C:\Program Files\Java\jdk-17.0.2\include" -I "C:\Program Files\Java\jdk-17.0.2\include\win32" SketchLibrary.cpp -m64 -ladvapi32 -lgdi32 -luser32 -static -shared -o sketch.dll
