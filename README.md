@@ -1,3 +1,6 @@
+# NOTE
+this project is outdated! use the new and better ![JTux](https://github.com/crxyne/jtux) instead.
+
 # sketch-tui
 buggy and slow mess of code that somehow performs terminal ui magic
 
